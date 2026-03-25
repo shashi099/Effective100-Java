@@ -1,0 +1,11 @@
+ 1 - Sum of two integers
+2- Print the message along with values and sum
+	Ex - The sum of 45 & 12  = 57
+3- Accept two integers from user and print the sum
+	Ex - The sum of 45 & 12 = 57
+4- Accept the User's name, age and print in following manner
+	Ex - Hello Shery, you are 12 years old.
+5- Solve Increment & decrement operator questions on
+	https://javaconceptoftheday.com/quiz-on-increment-and-decrement-operators/
+6- Accept two numbers from user and swap their values
+                Part 2 - Swap without using third variable
