@@ -1,0 +1,11 @@
+----------------------------------------------------------------DO WHILE, SWITCH------------------------------------------------
+40- Print hello until user gives wrong input using do while
+41- Make a choice based calculator using do while
+42- Choice based weekday
+43- Question 22 using Switch
+44- Project - Guess Game
+      Write a program that generates a random number and asks the user to guess what the number is.
+      If the user's guess is higher than the random number, the program should display "Too high, try again."
+      If the user's guess is lower than the random number, the program should display "Too low, try again."
+      The program should use a loop that repeats until the user correctly guesses the random number.
+45- Project Restaurant v 1.0
