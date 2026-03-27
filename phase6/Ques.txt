@@ -1,0 +1,50 @@
+---------------------------------------------------------------NESTED LOOP / PATTERN------------------------------------------
+46- Right Triangle
+ - Star
+	*
+	* *
+	* * *
+	* * * *
+	* * * * *
+47- Right Triangle - Number
+	1
+	1 2
+	1 2 3 
+	1 2 3 4
+	1 2 3 4 5
+48- Right Triangle - Alphabet
+	A
+	A B
+	A B C
+	A B C D
+	A B C D E
+49- Inverted Right Triangle
+	* * * * *
+	* * * *
+	* * *
+	* *
+	*
+50- Mirrored Right Triangle
+	        *
+	      * *
+	    * * *
+	  * * * *
+	* * * * *
+51- Triangle
+	    *
+	   * *
+	  * * *
+	 * * * *
+	* * * * *	
+52- V - Min Height = 3
+	*       * 
+	 *     *  
+	  *   *   
+	   * *    
+	    * 
+53- X
+	*        *
+	  *   *
+	    *
+	  *   *
+    *        *
